@@ -10,19 +10,19 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
-          bundler-cache: true
+          ruby-version: '3.0'  # 使用 Ruby 3.0
       
       - name: Install Dependencies
         run: |
           gem install bundler
+          bundle config path vendor/bundle
           bundle install
-      
+
       - name: Build Site
         run: bundle exec jekyll build
       
