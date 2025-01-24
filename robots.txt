@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ilookie.github.io/sitemap.xml
