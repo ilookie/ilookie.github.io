@@ -6,7 +6,7 @@
     <description>Recent content on lookie blog</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ilookie.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI 工具导航</title>
@@ -28,6 +28,18 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://ilookie.github.io/ai-nav/ai-learning/</guid>
       <description>AI学习路径和资源</description>
+    </item>
+    <item>
+      <title>The History of Python Programming Language</title>
+      <link>https://ilookie.github.io/posts/python/history/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ilookie.github.io/posts/python/history/</guid>
+      <description>&lt;p&gt;Python是一种高级编程语言，由Guido van Rossum于1980年代末创立，并在1991年首次发布。Python的设计哲学强调代码的可读性和简洁，同时提供强大的功能，使其成为各种编程任务的理想选择。&lt;/p&gt;
+&lt;p&gt;Python is a high-level programming language created by Guido van Rossum in the late 1980s and first released in 1991. Python&amp;rsquo;s design philosophy emphasizes code readability and simplicity while providing powerful functionality, making it an ideal choice for a variety of programming tasks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;发展的早期阶段-early-development-phase&#34;&gt;发展的早期阶段 (Early Development Phase)&lt;/h3&gt;
+&lt;p&gt;在1980年代，Guido van Rossum在荷兰的国家数学和计算机科学研究所工作。受到ABC语言的启发，他开始着手设计一种新的编程语言。Python的名称来自Guido喜欢的英国喜剧节目《蒙提·派森的飞行马戏团》（Monty Python&amp;rsquo;s Flying Circus），而不是“蟒蛇”。&lt;/p&gt;
+&lt;p&gt;During the 1980s, Guido van Rossum was working at the National Research Institute for Mathematics and Computer Science in the Netherlands. Inspired by the ABC language, he started designing a new programming language. The name Python comes from Guido&amp;rsquo;s favorite British comedy show, &amp;ldquo;Monty Python&amp;rsquo;s Flying Circus,&amp;rdquo; rather than the snake.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Thirteen Necessary Virtues</title>

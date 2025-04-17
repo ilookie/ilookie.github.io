@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on lookie blog</title>
-    <link>https://ilookie.github.io/posts/</link>
-    <description>Recent content in Posts on lookie blog</description>
+    <title>Python on lookie blog</title>
+    <link>https://ilookie.github.io/tags/python/</link>
+    <description>Recent content in Python on lookie blog</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ilookie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ilookie.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The History of Python Programming Language</title>
       <link>https://ilookie.github.io/posts/python/history/</link>
@@ -19,24 +19,6 @@
 &lt;h3 id=&#34;发展的早期阶段-early-development-phase&#34;&gt;发展的早期阶段 (Early Development Phase)&lt;/h3&gt;
 &lt;p&gt;在1980年代，Guido van Rossum在荷兰的国家数学和计算机科学研究所工作。受到ABC语言的启发，他开始着手设计一种新的编程语言。Python的名称来自Guido喜欢的英国喜剧节目《蒙提·派森的飞行马戏团》（Monty Python&amp;rsquo;s Flying Circus），而不是“蟒蛇”。&lt;/p&gt;
 &lt;p&gt;During the 1980s, Guido van Rossum was working at the National Research Institute for Mathematics and Computer Science in the Netherlands. Inspired by the ABC language, he started designing a new programming language. The name Python comes from Guido&amp;rsquo;s favorite British comedy show, &amp;ldquo;Monty Python&amp;rsquo;s Flying Circus,&amp;rdquo; rather than the snake.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Thirteen Necessary Virtues</title>
-      <link>https://ilookie.github.io/posts/ben_franklin/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://ilookie.github.io/posts/ben_franklin/</guid>
-      <description>&lt;h2 id=&#34;temperance&#34;&gt;&lt;strong&gt;TEMPERANCE&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Eat not to dullness; drink not to elevation.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;silence&#34;&gt;&lt;strong&gt;SILENCE&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Speak not but what may benefit others or yourself; avoid trifling conversation.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;order&#34;&gt;&lt;strong&gt;ORDER&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Let all your things have their places; let each part of your business have its time.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;resolution&#34;&gt;&lt;strong&gt;RESOLUTION&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Resolve to perform what you ought; perform without fail what you resolve.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;frugality&#34;&gt;&lt;strong&gt;FRUGALITY&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Make no expense but to do good to others or yourself; i.e., waste nothing.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;industry&#34;&gt;&lt;strong&gt;INDUSTRY&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Lose no time; be always employ’d in something useful; cut off all unnecessary actions.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
